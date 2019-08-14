@@ -27,6 +27,4 @@ url="https://doi.org/10.1007/s10664-012-9231-y"
 ```
 ## Data and Scripts
 
-Stack Overflow posts, topics, trends, and commands (1.7GB) can be downloaded [here](https://github.com/SAILResearch/replication-stackoverflow_topics_trends/releases/latest) 
-
-We include a README file to describe the contents. 
+Due to an internal infrastructure problem, the replication package is not available anymore. However, the data originally employed in our study should be somewhat easily obtainable from Stack Overflow dumps and archives, such as https://data.stackexchange.com/ and https://archive.org/details/stackexchange.
